@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/>
 
 ### Инструменты ⚒️
+<a target="_blank" href="https://icons8.com/icon/90519/логотип-spring">Логотип Spring</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 <img src="https://img.icons8.com/color/48/null/spring-logo.png"/> <img src="https://img.icons8.com/color/50/000000/postgreesql.png"/> <img src="https://user-images.githubusercontent.com/96340711/217063552-26becd01-8db9-495f-95bc-ce330ac3410a.png"/> <img src="https://user-images.githubusercontent.com/96340711/217065513-e8d93421-5a6f-4a7c-827a-8dbb6605cf1a.png"/> <img src="https://user-images.githubusercontent.com/96340711/217068059-931b4c5a-e6af-4d63-873e-9d175974b247.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/ios/50/000000/maven-ios.png"/> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <img src="https://img.icons8.com/bubbles/50/000000/github.png"/> 
 
 ## Статистика 📈
