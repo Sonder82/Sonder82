@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 ## Статистика 📈
 
-<p align="center">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonder82&show_icons=true&theme=dracula&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&locale=en&layout=compact&hide_border=true" alt="Sonder82"/> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sonder82&show_icons=true&theme=dracula&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&bg_color=141321&locale=en&hide_border=true" alt="Sonder82"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonder82&theme=highcontrast&hide_border=true" alt="Sonder82"/>
-<img width="47%" src="https://leetcode-stats-six.vercel.app/api?username=Sonder82&theme=dark" alt="Sonder82"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonder82)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonder82)](https://github.com/anuraghazra/github-readme-stats)
+
