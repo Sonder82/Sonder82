@@ -1,5 +1,7 @@
 ### Привет, меня зовут Алексей 👋
 
+## Обо мне 🧑🏼‍💻
+
 <!--
 **Sonder82/Sonder82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
