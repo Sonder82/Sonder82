@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ### Языки программирования ✍🏼
 <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v1.png"/>
+![icons8-логотип-spring-48 (1)](https://user-images.githubusercontent.com/87189286/219846991-93e741bf-4c4c-4df8-9060-8963e04a2fad.png)
 
 ### Инструменты ⚒️
 <a target="_blank" href="https://icons8.com/icon/90519/логотип-spring">Логотип Spring</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
