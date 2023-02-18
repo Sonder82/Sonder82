@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonder82)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Связаться со мной 👋🏼
 Связаться со мной [TELEGRAM](https://t.me/AlekseyNovoselov/)
@@ -31,6 +30,6 @@ Here are some ideas to get you started:
 
 ## Статистика 📈
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonder82)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonder82&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonder82)](https://github.com/anuraghazra/github-readme-stats)
 
