@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ## Статистика 📈
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonder82&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonder82&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sonder82&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonder82&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 
